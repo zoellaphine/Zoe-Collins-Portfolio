@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    margin: 20px;
+}
+
+h2 {
+    margin: 20px;
+    font-size: 20px;
+}
+
+.navbar {
+    background-color: rgb(248, 175, 199);
+    color: rgb(99, 99, 99);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu {
+    display: flex;
+    margin-left: 780px;
+}
+
+.about {
+    display: block;
+    margin: 20px;
+    background-color: rgb(248, 175, 199);
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.title {
+    margin: 0px;
+}
+
+.work {
+    margin: 20px;
+    background-color: rgb(248, 175, 199);
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.example {
+    display: flex;
+    height: 100%;
+    border-radius: 10px;
+    background-image: url('assets/images/planner.jpg');
+}
